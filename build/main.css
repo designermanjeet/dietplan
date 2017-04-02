@@ -24516,3 +24516,13 @@ ion-navbar.toolbar {
     padding-top: calc(16px + 20px);
   }
 }
+
+page-home ion-item-sliding .item {
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+page-home ion-icon {
+  font-size: 2.2em;
+}
